@@ -22,7 +22,7 @@ common:
   singbox_rule_base: base/all_base.tpl
   proxy_config: SYSTEM
   proxy_ruleset: SYSTEM
-  proxy_subscription: NONE
+  proxy_subscription: SYSTEM
   append_proxy_type: false
   reload_conf_on_request: false
 
